@@ -1,0 +1,3 @@
+SYN Flood: Multiple small red rectangles are drawn on the canvas to represent the flood of SYN packets.
+HTTP Flood: Multiple blue ovals are drawn to represent the HTTP requests.
+UDP Flood: The text "UDP" is drawn multiple times in green to represent the flood of UDP packets.
